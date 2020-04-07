@@ -62,4 +62,7 @@
                     </argLine>
                 </configuration>
             </plugin>
+	 </pluginManagement>
+  </build>
+</project>
          
